@@ -1,0 +1,5 @@
+# For an NVIDIA GPU install torch from the CUDA index first, e.g.:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+# (pick the CUDA version for your card at https://pytorch.org/get-started/locally/)
+torch>=2.4
+numpy
